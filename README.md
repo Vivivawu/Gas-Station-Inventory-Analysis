@@ -1,0 +1,7 @@
+## Introduction
+In this project, our team is tasked with analyzing the inventory management practices of 8 gas stations and giving recommendations on how these stations could optimize their cost savings.
+
+## Background and Objective：
+
+Gas stations always purchase fuel (gasoline or diesel) in large amounts and sell it to customers. Some gas stations might be tempted to order gas more frequently with smaller amounts each time, but just like wholesale purchases are always associated with some discount - the more a gas station orders fuel each time, the greater the discount rate. With a cost-effective inventory management strategy, however, a gas station could order gas in more significant amounts and less frequently to benefit from discounts without running out of gas. 
+Our team aims to analyze each gas station’s inventory replenishment strategy using the provided dataset and enlist recommendations to maximize savings and optimize inventory management. We first performed a rigorous analysis of the dataset to understand the current purchase strategy that each gas station adopts. As we figured out their inventory trajectory, we calculated how many purchases benefit from discounts and how much potential savings these gas stations could achieve with an optimized inventory management strategy. As a final outcome, we will provide managerial recommendations based on purchase strategy to maximize savings.
